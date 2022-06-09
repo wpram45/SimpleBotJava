@@ -1,3 +1,3 @@
 # SimpleBotJava
 
-Hyperskill.org Bot
+Project: Simple Chatty Bot
