@@ -1,1 +1,3 @@
 # SimpleBotJava
+
+Hyperskill.org Bot
